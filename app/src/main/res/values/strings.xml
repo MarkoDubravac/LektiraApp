@@ -1,0 +1,75 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LektirOS</string>
+    <string name="title">Lektire iz realizma</string>
+    <string name="start">Kreni</string>
+    <string name="search">Pretraži</string>
+    <string name="searchText">Ili pretraži!</string>
+    <string name="title_Lektire">Lektire</string>
+    <string name="returnText">Natrag</string>
+    <string name="lektiraTitle">Naziv lektire</string>
+    <string name="aboutBook">O lektiri</string>
+    <string name="testni">Testni</string>
+    <string name="author" tools:ignore="Typos">Autor:</string>
+    <string name="place" tools:ignore="Typos">Mjesto:</string>
+    <string name="aboutButton" tools:ignore="Typos">O realizmu</string>
+    <string name="characters" tools:ignore="Typos">Likovi:</string>
+    <string name="plot" tools:ignore="Typos">Radnja:</string>
+
+    <string name="croatianRealism">U hrvatskoj književnosti pojam realizma prvi je upotrijebio A. Šenoa 1862.
+        suprotstavljajući realističnu poeziju apstraktnoj poeziji, no tek se nakon 1870-ih i upoznavanja s ruskom,
+        francuskom i engleskom književnošću. Hrvatska se inačica realizma čak u svojim najzrelijim i najkvalitetnijim
+        ostvarenjima uvelike razlikuje od razvijenoga europskog realizma zbog toga što je književnost s jedne
+        strane još uvijek bila u službi oblikovanja nacionalne svijesti pa zato često didaktična i tendenciozna,
+        a s druge strane zbog rada na formiranju čitateljstva koje je bilo potrebno privući obrascima trivijalne
+        ili popularne književnosti. Zato cijela hrvatska književnost 19. st., od Šenoe preko Kumičića do A. Kovačića,
+        funkcionira kao jedinstveni hibrid popularne književnosti i visokoga europskog realizma.</string>
+
+    <string name="croatianPrestastavnici">Predstavnici: August Šenoa, Ante Kovačić, Janko Leskovar, Vjenceslav Novak, Josip Kozarac</string>
+    <string name="croatianBooks">Djela: U registraturi, Zlatarevo zlato, Prijan Lovro, Posljednji Stipančići, Tena</string>
+
+
+    <string name="englishRealism">Tridesetih godina 19. stoljeća engleska književnost ulazi u razdoblje novog
+        naleta, koji svoju najveću razinu doseže 40-ih i ranih 50-ih godine. To vrijeme datira vrhunac engleskog
+        realizma. Nezadovljni velikim razlikama među bogatim i siromašnim slojem stanovništva engleski književnici u
+        znak odupiranja nastoje pisati o nepravdi i siromašnom građanstvu. Zbog svoje kritičke narave engleski realizam
+        naziva se još i kritičkim realizmom.</string>
+
+    <string name="englishPrestastavnici">Predstavnici: William Thackeray, George Eliot, Charles Dickens</string>
+    <string name="englishBooks">Djela: Oliver Twist, Velika očekivanja, Sajam taštine</string>
+
+    <string name="frenchRealism">Želja za točnim i detaljnim opisom postala je glavni element realizma. Realizam je
+        dominirao francuskom književnosti već na polovici stoljeća. Zbirka eseja Realizam (Le réalisme, 1857.) od
+        Champfleurya se smatra manifestom realizma, no Gustave Flaubert je od mnogih realista smatran ocem tog pokreta. Uz
+        Champfleuryja i Flauberta također se mora spomenuti prvi veliki romanipisac koji je baš detaljno opisao život
+        svojih fiktivnih likova Balzac. Također iz francuskog realizma proizlazi i pravac zvan naturalizam kroz koji
+        književnici proučavaju ljudsku prirodu i mračniju stranu stvarnosti o kojoj realisti nisu pisali.</string>
+
+    <string name="frenchPrestastavnici">Predstavnici: Honore de Balzac, Gustave Flaubert, Stendhal, Emile Zola</string>
+    <string name="frenchBooks">Djela: Čiča Goriot, Gospođa Bovary, Therese Raquin</string>
+
+    <string name="russianRealism">Procvat ruske realističke književnosti u drugoj polovici 19. stoljeća odvijao se u
+        pozadini društvenih i političkih nemira koja je započela 1840-ih, za vrijeme vladavine Nikole I. Opće karakteristike
+        ruskog realizma 19. stoljeća uključuju poriv za istraživanjem ljudskog stanja u duhu ozbiljnog istraživanja, iako ne
+        isključujući humor i satiru; sklonost postavljanju umjetničkih djela u Rusiju iz vremena samog pisca; kultiviranje
+        jednostavnog stila, ali i stila koji uključuje činjenične detalje; naglasak na karakteru i atmosferi, a ne na radnjU;
+        i temeljnu toleranciju ljudske slabosti i zla.</string>
+
+    <string name="russianPrestastavnici">Predstavnici: Nikolaj Vasiljevič Gogolj, Lav Nikolajevič Tolstoj, Fjodor Dostojevski</string>
+    <string name="russianBooks">Djela: Kabanica, Mrtve duše, Rat i mir, Ana Karenjina, Zločin i kazna</string>
+
+    <string name="aboutRealism">Za realizam kao književnu epohu od središnje je važnosti odnos književnosti prema zbilji,
+        pa se zato često pojednostavnjeno zaključuje da prikazuje zbilju onakvu kakva ona jest, međutim, riječ je o načinu
+        književnog oblikovanja koji se kao i svaki drugi gradi na jeziku i književnim konvencijama. Zato odnos realizma prema
+        zbilji funkcionira dvosmjerno, ne samo kao jezikom i književnim konvencijama posredovani odraz zbilje nego i kao
+        proizvodnja nove, književne zbilje. O »realizmu« kao pojmu prvo su pisali F. Schiller i F. Schlegel suprotstavljajući
+        ga idealizmu, a u Francuskoj je pojam zadobio značenje u kontekstu rasprava što su se vodile oko slika G. Courbeta,
+        osobito zahvaljujući Champfleuryjevim tekstovima koji su sakupljeni u njegovoj knjizi Realizam (1857) te raspravama u
+        časopisu Réalisme (1856–57), u kojima se tražilo vjerno prikazivanje zbilje i objektivno ispitivanje života. U ruskoj
+        pak književnoj kritici 1930-ih V. G. Bjelinski preuzeo je Schlegelov pojam realnoga pjesništva, no za potrebe svoje
+        teorije koristio se pojmom naturalne škole. Književni smjerovi naturalizma i verizma smatraju se krajnjim konzekvencijama
+        realističke metode.</string>
+
+
+</resources>
+
+

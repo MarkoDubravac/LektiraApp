@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_margin="5dp"
+    android:backgroundTint="@color/black"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="0dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/lektira_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/lektira_title"
+            android:layout_width="236dp"
+            android:layout_height="34dp"
+            android:layout_marginStart="10dp"
+            android:textColor="@color/textWhite"
+            android:textSize="25sp"
+            app:layout_constraintLeft_toRightOf="@id/lektira_image"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/lektira_author"
+            android:layout_width="236dp"
+            android:layout_height="26dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/textWhite"
+            android:textSize="20sp"
+            app:layout_constraintLeft_toRightOf="@id/lektira_image"
+            app:layout_constraintTop_toBottomOf="@id/lektira_title" />
+
+        <TextView
+            android:id="@+id/lektira_place"
+            android:layout_width="236dp"
+            android:layout_height="26dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="12dp"
+            android:textColor="@color/textWhite"
+            android:textSize="20sp"
+            app:layout_constraintLeft_toRightOf="@id/lektira_image"
+            app:layout_constraintTop_toBottomOf="@id/lektira_author" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>
